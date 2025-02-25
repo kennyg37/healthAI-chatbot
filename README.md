@@ -21,7 +21,8 @@ This repository contains a notebook for chatbot creation and a FastAPI API to us
 - **API File**: [app.py](app.py)
 
 ## Media
-![Screenshot 2025-02-25 211423](https://github.com/user-attachments/assets/826764a0-0911-4ed7-873c-65b44eea8fdb)
+![Screenshot 2025-02-25 235705](https://github.com/user-attachments/assets/ec06664b-fd48-4a2a-b274-084cc8f184bb)
+
 
 ## Setup
 1. Clone the repository.
